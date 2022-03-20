@@ -1,2 +1,2 @@
-# softballstats
-A prototype NodeJS using a vue.js front-end to execute CRUD operations against a SQLite database.
+# Softball Stats
+A prototype website to build a vue.js application. The intention is to create a website from which an admin can edit the information for their softball team. To keep game updates, and player statistics current.
